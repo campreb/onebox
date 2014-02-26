@@ -1,0 +1,11 @@
+<figure>
+  <a href='{{ web_page }}' target="_blank">
+    <img src="{{ url }}" />
+  </a>
+  <figcaption>
+    {{ title }}
+    {{#author_name}}
+      <p class='photo-credit'><a href='{{author_url}}'>{{ author_name }} - {{ provider_name }}</a></p>
+    {{/author_name}}
+  </figcaption>
+</figure>

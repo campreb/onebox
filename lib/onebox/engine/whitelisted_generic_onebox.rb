@@ -45,7 +45,6 @@ module Onebox
           espn.go.com
           etsy.com
           findery.com
-          flickr.com
           forbes.com
           foxnews.com
           funnyordie.com
@@ -78,7 +77,6 @@ module Onebox
           screenr.com
           scribd.com
           slideshare.net
-          soundcloud.com
           sourceforge.net
           spotify.com
           squidoo.com
@@ -95,7 +93,6 @@ module Onebox
           tumblr.com
           twitpic.com
           usatoday.com
-          vimeo.com
           walmart.com
           washingtonpost.com
           wikia.com
