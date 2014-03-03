@@ -48,6 +48,7 @@ module Onebox
           forbes.com
           foxnews.com
           funnyordie.com
+          giphy.com
           groupon.com
           howtogeek.com
           huffingtonpost.com
@@ -70,6 +71,7 @@ module Onebox
           npr.org
           photobucket.com
           pinterest.com
+          radionz.co.nz
           reference.com
           revision3.com
           rottentomatoes.com
@@ -80,6 +82,7 @@ module Onebox
           sourceforge.net
           spotify.com
           squidoo.com
+          stuff.co.nz
           techcrunch.com
           ted.com
           thefreedictionary.com
@@ -87,6 +90,7 @@ module Onebox
           theonion.com
           thestar.com
           thesun.co.uk
+          thewireless.co.nz
           thinkgeek.com
           tmz.com
           torontosun.com
